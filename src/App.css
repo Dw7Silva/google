@@ -1,0 +1,25 @@
+html, body, #root{
+  margin:0;
+  padding:0;
+  border:0;
+  height: 100%;
+  width: 100%;
+}
+
+.app{
+  background-color:#ffffff;
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  text-align: center;
+}
+
+.img{
+  margin-top: 50px;
+}
+
+.pesquisar{
+  border-radius: 20px;
+  border-color: #b3b3b3;
+  border-style: solid;
+}
